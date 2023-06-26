@@ -1,0 +1,8 @@
+Chess.com Clone
+    this was my first idea, a cool chess website to play againt a bot or two and against opponents view recent matches sign up to keep track of past games an current win streak. i thought this would be a good one because it would be cool to show off to my friends and a good way to flesh out multiple diffent coding languages and frame works 
+
+Slot machine 
+    wasnt sure how i would accomplish this maybe something that was realy flexible and customizable by a user. didnt really feel this one to begin with but i thought it would be fun to make.
+
+Youtube clone
+    this is the one im going to go with, it was mentioned to me by my mentor. he said its good to do something that people are familiar with so they can tell when it is well done. i think im going to have it sports themed so it has a little more personallity to it than just youtube 2.0
