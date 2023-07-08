@@ -1,6 +1,6 @@
-1. The tech stack i plan to use is react and nodejs. i think these two are the most fun frameworks to use and they are the ones im most interested in refining my skills in. 
+1. The tech stack i plan to use is react. i think react is the most fun framework to use and it is the one im most interested in refining my skills in. 
 
-2. The focus will mostly likely be front end because thats where my interest lies but i think the backend wont be easy and it will be a great litmus test to see if i can make a usable api. 
+2. The focus will mostly likely be front end because thats where my interest lies. 
 
 3. This will be a website and i think it would be cool to show off to my friends. 
 
@@ -8,19 +8,19 @@
 
 5. i think mainly my friends, i don't plan to roll out an actual product just something more to show off my skills.
 
-6. i will use the youtube api because its an endless amount of data so i won't need to worry about not having enough data to populate the application.
+6. i will use 'rapidapi youtube api v3' because its an intuitive youtube api and much easier to work with, its also nice because i don't need a youtube api key just one for rapid api
 
 7. 
-    a. the schema will probably pretty simple, tables including users, posts, comments, favorites maybe a few more. 
+    a. won't have a schema, just a frontend app. backend is not my forte unfortunatly. 
     
-    b. I think it will be hard to properly sort out posts due to a lot coming from youtube directly and also having posts in site as well. 
+    b. i have yet to work with an api on my own so a lot be difficult but i have faith in my skills to figure it out. 
 
-    c. yeah there will be users so i will need to secure there accounts as well as session id's 
+    c. no sensitive infomation as this is a front end app. 
 
-    d. will be a user profile, video playlists, comments, searching, ect. 
+    d.  
 
-    e. user logs in, met with homepage of recommended videos, recently uploaded videos from subscribed creators, can select video they would like to view. can comment if desired. from there they can add to a custom playlist and view their profile. 
-
+    e. 
+    
     f. honestly a pretty one to one youtube clone. maybe some cool features will be added as i work on it because i'll likely come up with some as i work on the app. 
 
     
